@@ -1,0 +1,1 @@
+Mean accuracy : 0.41900000000000004 	 	 Std accuracy : 0.17032290401579323Mean precision : 0.4243588042242056 	 	 Std precision : 0.22603871844787873Mean recall : 0.41900000000000004 	 	 Std recall : 0.17032290401579323Mean f1-score : 0.3429008568607515 	 	 Std f1-score : 0.18692986120210203Mean support : 1350.0 	 	 Std support : 0.0
